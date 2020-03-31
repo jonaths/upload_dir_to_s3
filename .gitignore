@@ -1,0 +1,11 @@
+# exclude everything
+clean/*
+
+# exception to the rule
+!clean/.gitkeep
+
+# exclude everything
+files/*
+
+# exception to the rule
+!files/.gitkeep 
